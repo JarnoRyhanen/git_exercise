@@ -1,3 +1,7 @@
 Git testing
 
 new text from github
+
+
+
+This is a new commit 
