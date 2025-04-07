@@ -1,0 +1,5 @@
+Tämä on kloonatusta reposta
+
+$ git remote -v
+origin  https://github.com/JarnoRyhanen/git_exercise.git (fetch)
+origin  https://github.com/JarnoRyhanen/git_exercise.git (push)
