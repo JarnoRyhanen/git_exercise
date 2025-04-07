@@ -2,6 +2,7 @@
 4 liters of milk
 3 kg of potatoes
 
+Merge conflictit tulossa
 
 jotain uutta githubista
 Editoitu vs codesta
